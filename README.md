@@ -1,5 +1,6 @@
 # assorted-css-snippets
-snippets that don't require very expansive documentation
+Snippets that I have made or borrowed and modified for my own use.
+
 [How to use snippets](https://i.imgur.com/aB3eMRn.mp4)
 
 ## Kanban
