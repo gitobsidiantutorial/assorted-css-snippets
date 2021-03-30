@@ -6,6 +6,8 @@ snippets that don't require very expansive documentation
 [Get the snippet](https://raw.githubusercontent.com/gitobsidiantutorial/assorted-css-snippets/main/kanban.css)
 
 ### Description
+Credit goes to Manedblackwolf who created the kanban snippet for her [Spectrum theme](https://github.com/Braweria/Spectrum).
+
 Turns all unordered lists in a designated document into a kanban 'table'. Unindented entries become headers for new columns. Indented children become rows under their parent entries.
 
 Kanbans also allow you to transclude documents side by side.
