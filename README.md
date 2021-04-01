@@ -11,16 +11,19 @@ Snippets that I have made or borrowed and modified for my own use.
 
 ### Description
 Credit goes to [lithou](https://github.com/Lithou/Sandbox)
+
 Allows images to be displayed side by side, as well as allowing text to wrap around images.
 
 ### Usage
 When linking to an image, `|grid` makes it display side by side with other images on the same line with the `|grid` marker.
+
 `|left` makes an image float to the left `|right`, to the right, and `|centre` centres an image.
 
 You can still specify an image's width by adding another pipe sign with an image's desired pixel width. `![[Test.png|left|200]]` Embeds an image which allows text to wrap around it, and is 200 pixels wide.
 
 ## Kanban
 [Get the snippet](https://raw.githubusercontent.com/gitobsidiantutorial/assorted-css-snippets/main/kanban.css)
+
 [Demo](https://i.imgur.com/JZQZKKD.mp4)
 
 ### Description
