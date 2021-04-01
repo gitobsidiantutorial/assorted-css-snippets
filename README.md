@@ -5,6 +5,7 @@ Snippets that I have made or borrowed and modified for my own use.
 
 ## Kanban
 [Get the snippet](https://raw.githubusercontent.com/gitobsidiantutorial/assorted-css-snippets/main/kanban.css)
+[Demo](https://i.imgur.com/JZQZKKD.mp4)
 
 ### Description
 Credit goes to Manedblackwolf who created the kanban snippet for her [Spectrum theme](https://github.com/Braweria/Spectrum).
