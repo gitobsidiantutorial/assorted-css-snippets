@@ -1,0 +1,46 @@
+
+/* Sourced from lithou
+https://github.com/Lithou/Sandbox/blob/main/.obsidian/snippets/pub-Image%20Flags.css*/
+
+
+table{
+    width: auto;
+    display: table;
+}
+
+.grid span.image-embed[alt*="."],
+span[alt*="grid"]{
+    display: table-cell;
+    vertical-align: middle;
+    padding: 3px;
+}
+
+img[alt*="grid"],
+.grid img[alt*="."]{
+    max-height: 30vh;
+}
+
+/* Floating Images */
+img[alt*="left"] {
+    float:left;
+    clear:left;
+    margin-right: 1rem;
+    margin-bottom: 4px;
+    margin-top: 4px;
+}
+
+
+img[alt*="right"] {
+    float:right;
+    clear:right;
+    margin-left: 1rem;
+    margin-bottom: 4px;
+    margin-top: 4px;
+}
+img[alt*="center"],img[alt*="centre"] {
+    display:block;
+    margin-right: auto;
+    margin-left: auto;
+    margin-bottom: 4px;
+    margin-top: 4px;
+}
