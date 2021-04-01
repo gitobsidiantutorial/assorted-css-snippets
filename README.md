@@ -5,6 +5,7 @@ Snippets that I have made or borrowed and modified for my own use.
 
 ## Image Grids and Floats
 [Get the snippet](https://raw.githubusercontent.com/gitobsidiantutorial/assorted-css-snippets/main/img-grids-floats.css)
+
 [Demo](https://user-images.githubusercontent.com/81381984/113347719-dde11e80-9335-11eb-9fde-0ae229fed54f.png)
 
 
