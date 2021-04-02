@@ -3,6 +3,11 @@ Snippets that I have made or borrowed and modified for my own use.
 
 [How to use snippets](https://i.imgur.com/aB3eMRn.mp4)
 
+### Contents
+- [Image Grids and Floats](#image-grids-and-floats)
+- [Kanban](#kanban)
+- [Obsidian Tabs](#obsidian-tabs)
+
 ## Image Grids and Floats
 [Get the snippet](https://raw.githubusercontent.com/gitobsidiantutorial/assorted-css-snippets/main/img-grids-floats.css)
 
