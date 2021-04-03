@@ -1,3 +1,18 @@
+.theme-light .kanban {
+  --kanbanbgodd: #ffffff70; /* odd numbered item*/
+  --kanbanbgeven: #ffffff10; /* even numbered item*/
+  --kanbanbgchild: #ffffff04; /* nesting numbered item*/
+  --kanbanhover:#C7C8C910;
+}
+
+.theme-dark .kanban {
+  --kanbanbgodd: #4F4F4F01;
+  --kanbanbgeven: #4F4F4F10;
+  --kanbanbgchild: #20202090;
+  --kanbanhover:#4F4F4F12;
+}
+
+
 .kanban ul {
   display: flex;
   width:100%;
@@ -102,40 +117,19 @@ padding-left: 0px;
 }
 
 
-.theme-light .kanban ul ul li:nth-child(odd) {
-  background: #ffffff70;
+.kanban ul ul li:nth-child(odd) {
+  background: var(--kanbanbgodd);
   border-top: 1px solid var(--background-secondary);
 }
 
-.theme-light .kanban ul ul li:nth-child(even) {
-  background: #ffffff10;
+.kanban ul ul li:nth-child(even) {
+  background: var(--kanbanbgeven);
   border-top: 1px solid var(--background-secondary);
 }
 
-.theme-light .kanban ul ul {
-  background: #ffffff04;
+.kanban ul ul {
+  background: var(--kanbanbgchild);
 }
-
-.theme-light .kanban ul ul li:hover {
-  background: #C7C8C910;
+.kanban ul ul li:hover {
+  background: var(--kanbanhover);
 }
-
-.theme-dark .kanban ul ul li:nth-child(odd) {
-  background: #4F4F4F01;
-  border-top:1px solid var(--background-secondary);
-}
-
-.theme-dark .kanban ul ul li:nth-child(even) {
-  background: #4F4F4F10;
-  border-top:1px solid var(--background-secondary);
-}
-
-.theme-dark .kanban ul ul {
-  background: #20202090;
-}
-
-.theme-dark .kanban ul ul li:hover {
-  background: #4F4F4F09;
-}
-
-.kanban li div {width: fit-content;}
