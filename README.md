@@ -72,8 +72,3 @@ cssclass: kanban
 
 ### Description
 A way to approximate tabs through CSS, including split view. Made for usage in unison with the [pane relief plugin](https://github.com/pjeby/pane-relief).
-
-
-
-TEst
-![image](https://github.com/foreveryone1/ObsidianNotes/blob/master/obsidian.md/Attachments/1map_2x_resolution_web.webp)
