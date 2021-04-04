@@ -34,6 +34,11 @@ You can still specify an image's width by adding another pipe sign with an image
 Extends the Image Floats snippet. Allows a left or right floated image to have a caption beneath it.
 ### Usage
 Insert the following one line break beneath an image.
+
+```markdown
+<figcaption id="left/right/centre/center" style="width:200px">CAPTION HERE.</figcaption> 
+```
+For example:
 ```markdown
 ![[example_image.png|left|200]]
 <figcaption id="left" style="width:200px">This is a left caption.</figcaption> 
