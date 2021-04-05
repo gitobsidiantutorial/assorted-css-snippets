@@ -18,7 +18,7 @@ Snippets that I have made or borrowed and modified for my own use.
 ### Description
 Credit goes to [lithou](https://github.com/Lithou/Sandbox)
 
-Allows images to be displayed side by side, as well as allowing text to wrap around images. Consider also installing the 
+Allows images to be displayed side by side, as well as allowing text to wrap around images. Consider also using the [Left and Right Figcaptions](#left-and-right-figcaptions) snippet.
 
 ### Usage
 When linking to an image, `|grid` makes it display side by side with other images on the same line with the `|grid` marker.
@@ -32,7 +32,7 @@ You can still specify an image's width by adding another pipe sign with an image
 
 [Demo](https://i.imgur.com/zY1Gy4g.mp4)
 ### Description
-Extends the Image Floats snippet. Allows a left or right floated image to have a caption beneath it.
+Extends the [Image Grids and Floats](#image-grids-and-floats) snippet. Allows a left or right floated image to have a caption beneath it.
 ### Usage
 Insert the following one line break beneath an image.
 
