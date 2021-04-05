@@ -5,6 +5,7 @@ Snippets that I have made or borrowed and modified for my own use.
 
 ### Contents
 - [Image Grids and Floats](#image-grids-and-floats)
+  - [Left and Right Figcaptions](#left-and-right-figcaptions) 
 - [Kanban](#kanban)
 - [Obsidian Tabs](#obsidian-tabs)
 
