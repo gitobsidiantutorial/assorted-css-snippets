@@ -37,14 +37,16 @@ Extends the [Image Grids and Floats](#image-grids-and-floats) snippet. Allows a 
 Insert the following one line break beneath an image.
 
 ```markdown
-<figcaption id="left/right/centre/center" style="width:200px">CAPTION HERE.</figcaption> 
+<i class="figcaption" id="left/right/centre/center" style="width:200px">CAPTION HERE.</i>
 ```
 For example:
 ```markdown
 ![[example_image.png|left|200]]
-<figcaption id="left" style="width:200px">This is a left caption.</figcaption> 
+<i class="figcaption" id="left" style="width:200px""></i>
 ```
 Place `left`, `right`, or `centre`/`center` in the id field, depending on the positioning of the image it is paired with. The width of the caption must match the width of image.
+
+If the figcaption is not placed beneath a floating image, you can omit the id and style fields.
 
 
 ## Kanban
